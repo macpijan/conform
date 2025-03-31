@@ -11,8 +11,8 @@ import (
 	git "github.com/go-git/go-git/v5"
 	"github.com/spf13/cobra"
 
-	"github.com/siderolabs/conform/internal/enforcer"
-	"github.com/siderolabs/conform/internal/policy"
+	"github.com/3mdeb/conform/internal/enforcer"
+	"github.com/3mdeb/conform/internal/policy"
 )
 
 // enforceCmd represents the enforce command.

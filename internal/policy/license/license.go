@@ -16,7 +16,7 @@ import (
 	"github.com/denormal/go-gitignore"
 	"github.com/pkg/errors"
 
-	"github.com/siderolabs/conform/internal/policy"
+	"github.com/3mdeb/conform/internal/policy"
 )
 
 // Licenses implement the policy.Policy interface and enforces source code license headers.

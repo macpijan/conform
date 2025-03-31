@@ -10,7 +10,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/siderolabs/conform/internal/policy"
+	"github.com/3mdeb/conform/internal/policy"
 )
 
 // HeaderCaseCheck enforces the case of the first word in the header.

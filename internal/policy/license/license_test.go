@@ -12,7 +12,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/siderolabs/conform/internal/policy/license"
+	"github.com/3mdeb/conform/internal/policy/license"
 )
 
 func TestLicense(t *testing.T) {

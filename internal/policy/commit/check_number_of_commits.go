@@ -9,8 +9,8 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/siderolabs/conform/internal/git"
-	"github.com/siderolabs/conform/internal/policy"
+	"github.com/3mdeb/conform/internal/git"
+	"github.com/3mdeb/conform/internal/policy"
 )
 
 // NumberOfCommits enforces a maximum number of charcters on the commit

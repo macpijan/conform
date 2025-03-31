@@ -9,7 +9,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/siderolabs/conform/internal/policy"
+	"github.com/3mdeb/conform/internal/policy"
 )
 
 // MaxNumberOfCommitCharacters is the default maximium number of characters

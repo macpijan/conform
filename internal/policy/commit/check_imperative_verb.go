@@ -10,7 +10,7 @@ import (
 	"github.com/jdkato/prose/v3"
 	"github.com/pkg/errors"
 
-	"github.com/siderolabs/conform/internal/policy"
+	"github.com/3mdeb/conform/internal/policy"
 )
 
 // ImperativeCheck enforces that the first word of a commit message header is

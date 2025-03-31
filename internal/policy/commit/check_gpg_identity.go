@@ -14,8 +14,8 @@ import (
 	"github.com/google/go-github/v60/github"
 	"golang.org/x/sync/errgroup"
 
-	"github.com/siderolabs/conform/internal/git"
-	"github.com/siderolabs/conform/internal/policy"
+	"github.com/3mdeb/conform/internal/git"
+	"github.com/3mdeb/conform/internal/policy"
 )
 
 // GPGIdentityCheck ensures that the commit is cryptographically signed using known identity.

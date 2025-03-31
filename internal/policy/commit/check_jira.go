@@ -9,7 +9,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/siderolabs/conform/internal/policy"
+	"github.com/3mdeb/conform/internal/policy"
 )
 
 // JiraCheck enforces that a Jira issue is mentioned in the header.

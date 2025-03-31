@@ -9,7 +9,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/siderolabs/conform/internal/version"
+	"github.com/3mdeb/conform/internal/version"
 )
 
 var versionCmd = &cobra.Command{

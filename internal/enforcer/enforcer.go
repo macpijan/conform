@@ -15,10 +15,10 @@ import (
 	"github.com/pkg/errors"
 	yaml "gopkg.in/yaml.v3"
 
-	"github.com/siderolabs/conform/internal/policy"
-	"github.com/siderolabs/conform/internal/policy/commit"
-	"github.com/siderolabs/conform/internal/policy/license"
-	"github.com/siderolabs/conform/internal/reporter"
+	"github.com/3mdeb/conform/internal/policy"
+	"github.com/3mdeb/conform/internal/policy/commit"
+	"github.com/3mdeb/conform/internal/policy/license"
+	"github.com/3mdeb/conform/internal/reporter"
 )
 
 // Conform is a struct that conform.yaml gets decoded into.

@@ -12,7 +12,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/siderolabs/conform/internal/policy"
+	"github.com/3mdeb/conform/internal/policy"
 )
 
 //nolint:gocognit

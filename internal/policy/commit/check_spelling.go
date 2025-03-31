@@ -10,7 +10,7 @@ import (
 
 	"github.com/golangci/misspell"
 
-	"github.com/siderolabs/conform/internal/policy"
+	"github.com/3mdeb/conform/internal/policy"
 )
 
 // SpellCheck represents to spell check policy.

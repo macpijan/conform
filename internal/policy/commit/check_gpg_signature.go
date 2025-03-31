@@ -7,8 +7,8 @@ package commit
 import (
 	"github.com/pkg/errors"
 
-	"github.com/siderolabs/conform/internal/git"
-	"github.com/siderolabs/conform/internal/policy"
+	"github.com/3mdeb/conform/internal/git"
+	"github.com/3mdeb/conform/internal/policy"
 )
 
 // GPGCheck ensures that the commit is cryptographically signed using GPG.
